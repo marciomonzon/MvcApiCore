@@ -1,2 +1,2 @@
 # MvcApiCore
-Projeto em ASP.NET 3.1. Criando uma API
+Projeto em ASP.NET Core 3.1. Criando uma API
